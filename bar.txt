@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-branch-a
-=======
-master
->>>>>>> refs/heads/master
+aaaaaaaaaaaaaaaaaaaaaa
